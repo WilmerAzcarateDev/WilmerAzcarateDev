@@ -101,12 +101,3 @@ Highly adaptable and results-driven Software Developer. My approach is not limit
 ## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner** | *Amazon Web Services* (`July 2026`)[cite: 1]
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilmerAzcarateDev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilmerAzcarateDev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
