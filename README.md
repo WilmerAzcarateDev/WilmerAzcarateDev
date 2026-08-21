@@ -48,56 +48,56 @@ Highly adaptable and results-driven Software Developer. My approach is not limit
 ## 💼 Work Experience
 
 ### **Full Stack & Cloud Developer** | *TheBitBang Company*
-`Jun 2025 – Present` | *Remote (Colombia)*[cite: 1]
-- Refactored a critical enterprise application using **Node.js**, fixing 6 critical security vulnerabilities and successfully passing an external US-based security audit[cite: 1].
-- Architected and deployed scalable RESTful APIs with **Python (FastAPI)**, significantly reducing backend response latency[cite: 1].
-- Provisioned cloud infrastructure via **AWS EC2** and implemented serverless architectures using **AWS Lambda & SAM**[cite: 1].
-- Modernized frontend interfaces with **React** and **Angular**, improving cross-platform consistency and user experience (UX)[cite: 1].
+`Jun 2025 – Present` | *Remote (Colombia)*
+- Refactored a critical enterprise application using **Node.js**, fixing 6 critical security vulnerabilities and successfully passing an external US-based security audit.
+- Architected and deployed scalable RESTful APIs with **Python (FastAPI)**, significantly reducing backend response latency.
+- Provisioned cloud infrastructure via **AWS EC2** and implemented serverless architectures using **AWS Lambda & SAM**.
+- Modernized frontend interfaces with **React** and **Angular**, improving cross-platform consistency and user experience (UX).
 
 ### **Full Stack Developer Intern** | *SENA (SENNOVA)*
-`Oct 2024 – Apr 2025` | *Popayán, Colombia*[cite: 1]
-- Developed a data analysis platform using **Django 5** for robust backend processing and data management[cite: 1].
-- Built high-performance frontend visualizations and interactive dashboards using **Angular 18**[cite: 1].
-- Designed scalable REST APIs for large datasets, ensuring low-latency query handling[cite: 1].
+`Oct 2024 – Apr 2025` | *Popayán, Colombia*
+- Developed a data analysis platform using **Django 5** for robust backend processing and data management.
+- Built high-performance frontend visualizations and interactive dashboards using **Angular 18**.
+- Designed scalable REST APIs for large datasets, ensuring low-latency query handling.
 
 ### **Frontend Developer** | *Kishron*
-`Jul 2024 – Sep 2024` | *Remote (Colombia)*[cite: 1]
-- Built responsive user interfaces and robust UI/UX components for a high-traffic public administration platform[cite: 1].
-- Optimized rendering performance and ensured cross-browser compatibility for critical public-facing dashboards[cite: 1].
-- Translated complex business requirements into high-performance, accessible frontend architectures[cite: 1].
+`Jul 2024 – Sep 2024` | *Remote (Colombia)*
+- Built responsive user interfaces and robust UI/UX components for a high-traffic public administration platform.
+- Optimized rendering performance and ensured cross-browser compatibility for critical public-facing dashboards.
+- Translated complex business requirements into high-performance, accessible frontend architectures.
 
 ### **Technical Mentor & Project Manager** | *SENA*
-`Apr 2024 – Mar 2025` | *Popayán, Colombia*[cite: 1]
-- Mentored multiple cohorts of apprentices in advanced web development with **Angular** and **Laravel**[cite: 1].
-- Managed software project lifecycles, ensuring adherence to Agile methodologies and Clean Code standards[cite: 1].
-- Led technical workshops on version control (**Git**) and software architecture best practices[cite: 1].
+`Apr 2024 – Mar 2025` | *Popayán, Colombia*
+- Mentored multiple cohorts of apprentices in advanced web development with **Angular** and **Laravel**.
+- Managed software project lifecycles, ensuring adherence to Agile methodologies and Clean Code standards.
+- Led technical workshops on version control (**Git**) and software architecture best practices.
 
 ### **Full Stack Developer** | *Virtual Tecnology*
-`Nov 2023 – Mar 2024` | *Popayán, Colombia*[cite: 1]
-- Led the end-to-end development lifecycle of a comprehensive educational management platform[cite: 1].
-- Architected relational database schemas (**MySQL**) to efficiently support complex administrative workflows[cite: 1].
-- Developed scalable backend services with **PHP (Laravel)** and dynamic frontend interfaces using **Angular**[cite: 1].
+`Nov 2023 – Mar 2024` | *Popayán, Colombia*
+- Led the end-to-end development lifecycle of a comprehensive educational management platform.
+- Architected relational database schemas (**MySQL**) to efficiently support complex administrative workflows.
+- Developed scalable backend services with **PHP (Laravel)** and dynamic frontend interfaces using **Angular**.
 
 ### **Volunteer Full Stack & Mobile Developer** | *SENA (Volunteer Projects)*
-`Mar 2023 – Dec 2023` | *Popayán, Colombia*[cite: 1]
-- Designed and built an EdTech administrative platform using **Laravel** (backend) and **Angular** (frontend)[cite: 1].
-- Collaborated on a cross-platform tourism mobile application with **Flutter**, integrating complex backend logic and APIs built with **NestJS**[cite: 1].
-- Contributed development hours to deliver high-impact full-stack and mobile solutions[cite: 1].
+`Mar 2023 – Dec 2023` | *Popayán, Colombia*
+- Designed and built an EdTech administrative platform using **Laravel** (backend) and **Angular** (frontend).
+- Collaborated on a cross-platform tourism mobile application with **Flutter**, integrating complex backend logic and APIs built with **NestJS**.
+- Contributed development hours to deliver high-impact full-stack and mobile solutions.
 
 ---
 
 ## 🎓 Education
 
 - **Associate Degree in Software Analysis and Development (Tecnólogo en ADSO)**  
-  *SENA* (`Jun 2022 – Mar 2025`)[cite: 1]  
-  *Comprehensive software development training focused on scalable architectures. Appointed as a Technical Mentor during the internship phase based on high academic standing.*[cite: 1]
+  *SENA* (`Jun 2022 – Mar 2025`)  
+  *Comprehensive software development training focused on scalable architectures. Appointed as a Technical Mentor during the internship phase based on high academic standing.*
 
 - **Computer Systems Engineering (5 Semesters Completed)**  
-  *Unicomfacauca* (`Jan 2017 – Jun 2020`)[cite: 1]  
-  *Completed core computer science coursework focusing on advanced mathematics, data structures, algorithms, and logical architectures.*[cite: 1]
+  *Unicomfacauca* (`Jan 2017 – Jun 2020`)  
+  *Completed core computer science coursework focusing on advanced mathematics, data structures, algorithms, and logical architectures.*
 
 ---
 
 ## 📜 Certifications
 
-- **AWS Certified Cloud Practitioner** | *Amazon Web Services* (`July 2026`)[cite: 1]
+- **AWS Certified Cloud Practitioner** | *Amazon Web Services* (`July 2026`)
