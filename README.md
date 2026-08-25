@@ -1,8 +1,8 @@
 # Hi there, I'm Jhon Wilmer Azcárate Rivera 👋
 ### Full Stack & Cloud Developer
 
-📍 Armenia, Colombia  
-📫 **Email:** jhonazcaratework@gmail.com | 🌐 **LinkedIn:** [linkedin.com/in/jhon-azcarate-a5b198255](https://www.linkedin.com/in/jhon-azcarate-a5b198255/) | 📱 **Phone:** +57 314 7529580
+📍 Armenia, Quindio,Colombia  
+📫 **Email:** jhonazcaratework@gmail.com | 🌐 **LinkedIn:** [linkedin.com/in/jhon-azcarate-a5b198255](https://www.linkedin.com/in/jhon-azcarate-a5b198255/) | **Page:** [https://wilazdev-front.jhonazcaratework.workers.dev/]
 
 ---
 
