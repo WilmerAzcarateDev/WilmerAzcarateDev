@@ -2,7 +2,7 @@
 ### Full Stack & Cloud Developer
 
 📍 Armenia, Quindio,Colombia  
-📫 **Email:** jhonazcaratework@gmail.com | 🌐 **LinkedIn:** [linkedin.com/in/jhon-azcarate-a5b198255](https://www.linkedin.com/in/jhon-azcarate-a5b198255/) | **Page:** [https://wilazdev-front.jhonazcaratework.workers.dev/]
+📫 **Email:** jhonazcaratework@gmail.com | 🌐 **LinkedIn:** [Wilmer Azcarate](https://www.linkedin.com/in/jhon-azcarate-a5b198255/) | **Page:** [Asistente Virtual](https://wilazdev-front.jhonazcaratework.workers.dev/)
 
 ---
 
